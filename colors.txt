@@ -1,3 +1,7 @@
 red
 green
 white
+blue
+pink
+violet
+black
