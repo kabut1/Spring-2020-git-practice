@@ -7,3 +7,4 @@ violet
 black
 orange
 navy blue
+burgundy
